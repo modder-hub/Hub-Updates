@@ -3,5 +3,10 @@
 "Name" : "Xposed Detection",
 "Provider_Name" : "mt.Xposed",
 "File_Name" : "Xposed.smali"
+},
+{
+"Name" : "Root Detection",
+"Provider_Name" : "mt.Root",
+"File_Name" : "Xposed.smali"
 }
 ]
